@@ -3,12 +3,6 @@
 ## IBM Code Model Asset Exchange: Breast Cancer Mitosis Detector
 
 
-> This repository contains code to instantiate and deploy the mitosis detection model.
- 
-> This model takes a 64 x 64 PNG image file extracted from the whole slide image as input, and outputs the predicted probability of the image containing mitosis. 
-
-> For more information and additional features, check out the [samples](https://github.com/Moudipa01/Breast_Cancer-Detector/tree/main/samples).
-
 > The code in this repository deploys the model as a web service in a Docker container. 
 
 ## Model Metadata
